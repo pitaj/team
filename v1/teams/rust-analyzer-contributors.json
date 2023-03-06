@@ -1,0 +1,66 @@
+{
+  "name": "rust-analyzer-contributors",
+  "kind": "team",
+  "subteam_of": "compiler",
+  "members": [
+    {
+      "name": "bjorn3",
+      "github": "bjorn3",
+      "github_id": 17426603,
+      "is_lead": false
+    },
+    {
+      "name": "Edwin Cheng",
+      "github": "edwin0cheng",
+      "github_id": 11014119,
+      "is_lead": false
+    },
+    {
+      "name": "Hamidreza Kalbasi",
+      "github": "HKalbasi",
+      "github_id": 45197576,
+      "is_lead": false
+    },
+    {
+      "name": "Ryo Yoshida",
+      "github": "lowr",
+      "github_id": 24381114,
+      "is_lead": false
+    },
+    {
+      "name": "Kirill Bulatov",
+      "github": "SomeoneToIgnore",
+      "github_id": 2690773,
+      "is_lead": false
+    }
+  ],
+  "alumni": [],
+  "github": {
+    "teams": [
+      {
+        "org": "rust-analyzer",
+        "name": "rust-analyzer-contributors",
+        "members": [
+          45197576,
+          2690773,
+          17426603,
+          11014119,
+          24381114
+        ]
+      },
+      {
+        "org": "rust-lang",
+        "name": "rust-analyzer-contributors",
+        "members": [
+          45197576,
+          2690773,
+          17426603,
+          11014119,
+          24381114
+        ]
+      }
+    ]
+  },
+  "website_data": null,
+  "discord": []
+}
